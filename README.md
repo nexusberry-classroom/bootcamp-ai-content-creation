@@ -2,7 +2,7 @@
 - learn AI-powered writing, design, and media production
 - narrow down choices: writing/SEO, images/design, or video/audio
 
-# 7-step lifecycle
+# 7-step content loop (Research → Script → Gen → Distro → Comments → Report → Analyze)
    1. Research: Scoping user requirements and system architecture.
    2. Script: Writing technical documentation or user stories.
    3. Generation: Using AI (like Claude or GitHub Copilot) to generate code.
